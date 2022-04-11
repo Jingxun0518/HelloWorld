@@ -16,4 +16,7 @@ hello git! hello atguigu!
 hello git! hello atguigu!
 hello git!
 hello world!
-hello spark hello scala`
+<<<<<<< HEAD
+=======
+hello spark hello scala` hello flink
+>>>>>>> hot-fix
